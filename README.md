@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0f766e,100:14b8a6&height=210&section=header&text=HARSH MORE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ODOO%20DEVELOPER%20%E2%80%A2%20PYTHON%20DEVELOPER%20%E2%80%A2%20ERP%20AUTOMATION&descAlignY=59&descSize=15&animation=fadeIn" width="100%" alt="Harsh Koderxpert" />
 
@@ -15,7 +15,7 @@
 
 </div>
 
-<br/>
+<br/> -->
 
 <div align="center">
   <img src="./harsh_whoami.gif" width="100%" alt="Harsh Koderxpert animated developer card" />
