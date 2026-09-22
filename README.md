@@ -1,81 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0f766e,100:14b8a6&height=210&section=header&text=HARSH%20KODERXPERT&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ODOO%20DEVELOPER%20%E2%80%A2%20PYTHON%20ENGINEER%20%E2%80%A2%20ERP%20AUTOMATION&descAlignY=59&descSize=15&animation=fadeIn" width="100%" alt="Harsh Koderxpert" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0f766e,100:14b8a6&height=210&section=header&text=HARSH MORE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ODOO%20DEVELOPER%20%E2%80%A2%20PYTHON%20DEVELOPER%20%E2%80%A2%20ERP%20AUTOMATION&descAlignY=59&descSize=15&animation=fadeIn" width="100%" alt="Harsh Koderxpert" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=720&lines=%24+whoami;Odoo+18%2F19+Developer+%7C+Python+Engineer;Building+custom+ERP+solutions+that+solve+real+problems;Automating+workflows+%E2%80%A2+Integrating+systems+%E2%80%A2+Shipping+clean+code" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=760&lines=%24+whoami;Odoo+18%2F19+Developer+%7C+Python+Engineer;Building+reliable+ERP+solutions;Automation+%E2%80%A2+Integrations+%E2%80%A2+Clean+workflows" alt="Typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/ODOO-18%20%2F%2019-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo 18/19"/>
-<img src="https://img.shields.io/badge/PYTHON-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/FOCUS-ERP%20AUTOMATION-0F766E?style=for-the-badge" alt="ERP Automation"/>
+<img src="https://img.shields.io/badge/Odoo-18%20%2F%2019-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/OWL-Frontend-0F766E?style=for-the-badge" alt="OWL"/>
+<img src="https://img.shields.io/badge/ERP-Automation-164E63?style=for-the-badge" alt="ERP Automation"/>
 
 </div>
 
 <br/>
 
-<!-- ## `$ whoami`
-
-```yaml
-developer:
-  name: "Harsh"
-  role: "Odoo Developer"
-  specialization:
-    - Odoo 18 / 19
-    - Python Development
-    - ERP Customization
-    - Business Process Automation
-
-  currently_building:
-    - Custom Odoo Modules
-    - API Integrations
-    - OWL Interfaces
-    - QWeb / PDF Reports
-    - Workflow Automations
-
-  philosophy: "Automate the repeatable. Simplify the complicated."
-  timezone: "IST (UTC+5:30)"
-``` -->
 <div align="center">
-  <img src="./harsh_whoami.gif" width="100%" alt="Harsh Koderxpert - Who Am I" />
+  <img src="./harsh_whoami.gif" width="100%" alt="Harsh Koderxpert animated developer card" />
 </div>
 
-I build **Odoo and Python solutions that connect real business requirements with reliable software**.
+<br/>
 
-My work focuses on custom ERP development, workflow automation, integrations, migrations and user-friendly business tools — from backend models and business logic to OWL interfaces and production-ready reports.
+👋 About Me
 
----
+I build Odoo and Python solutions that connect real business requirements with reliable software.
 
-## ⚡ What I Do
+My work focuses on custom ERP development, workflow automation, API integrations, migrations, reporting, and modern Odoo interfaces — from backend business logic to OWL components and production-ready QWeb reports.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Custom_Modules-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/API_Integrations-164E63?style=flat-square" />
+<img src="https://img.shields.io/badge/QWeb_Reports-714B67?style=flat-square" />
+<img src="https://img.shields.io/badge/OWL_UI-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+
+</div>
+
+⚡ What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Odoo Engineering
+<h3>🧩 Odoo Engineering</h3>
 
-* Custom Odoo modules
-* Odoo 18 / 19 development
-* ORM models & business logic
-* Sales, Inventory, Accounting & Project
-* Access rights & record rules
-* Automated actions & workflows
-* Module migrations & upgrades
+<p>
+• Custom Odoo modules<br/>
+• Odoo 18 / 19 development<br/>
+• ORM models & business logic<br/>
+• Sales, Inventory, Accounting & Project<br/>
+• Access rights & record rules<br/>
+• Automated actions & workflows<br/>
+• Module migrations & upgrades
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Automation & Integration
+<h3>🔌 Automation & Integrations</h3>
 
-* REST API integrations
-* Third-party service integrations
-* WhatsApp / Meta API
-* Data synchronization
-* Business process automation
-* Import & migration utilities
-* PostgreSQL-backed solutions
+<p>
+• REST API integrations<br/>
+• Third-party service integrations<br/>
+• WhatsApp / Meta API<br/>
+• Data synchronization<br/>
+• Business process automation<br/>
+• Import & migration utilities<br/>
+• PostgreSQL-backed workflows
+</p>
 
 </td>
 </tr>
@@ -83,226 +78,190 @@ My work focuses on custom ERP development, workflow automation, integrations, mi
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Odoo Frontend
+<h3>🎨 Odoo Frontend</h3>
 
-* OWL / JavaScript
-* XML views
-* QWeb templates
-* Custom widgets
-* Responsive Odoo UI
-* Legacy frontend migrations
-* Website & eCommerce customization
+<p>
+• OWL / JavaScript<br/>
+• XML views & QWeb templates<br/>
+• Custom widgets & components<br/>
+• Responsive Odoo UI<br/>
+• Legacy frontend migrations<br/>
+• Website & eCommerce customization
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Reports & Data
+<h3>📊 Reports & Data</h3>
 
-* Custom QWeb PDF reports
-* Invoice & sales reports
-* Multilingual reports
-* Operational dashboards
-* PostgreSQL queries
-* Data processing with Python
-* Pandas / NumPy
+<p>
+• Custom QWeb PDF reports<br/>
+• Invoice & sales reports<br/>
+• Multilingual report layouts<br/>
+• Operational dashboards<br/>
+• PostgreSQL queries<br/>
+• Python data processing
+</p>
 
 </td>
 </tr>
 </table>
 
----
+🚀 Selected Engineering Work
 
-## 🚀 Engineering Highlights
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  ODOO / ERP ENGINEERING                                     │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  ✓ Custom Odoo 18/19 modules                                │
-│  ✓ OWL migration & frontend modernization                   │
-│  ✓ WhatsApp integration using Meta API                      │
-│  ✓ Advanced QWeb / PDF report customization                 │
-│  ✓ Project & task scheduling workflows                      │
-│  ✓ Data migrations and model restructuring                  │
-│  ✓ REST API and third-party integrations                    │
-│  ✓ PostgreSQL-backed business logic                         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+🧱 Custom ERP Modules
 
----
+Business-focused Odoo modules with clean models, security, workflows, and maintainable architecture.
 
-## 🛠️ Technology Stack
+</td>
+<td width="33%" valign="top" align="center">
+
+🦉 OWL Modernization
+
+Migration of legacy frontend behavior to modern OWL patterns for Odoo 18/19.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+💬 Meta / WhatsApp
+
+Integration workflows using Meta APIs for messaging and business communication.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top" align="center">
+
+🧾 QWeb Reporting
+
+Custom invoice, sale, multilingual, PDF, and operational reporting.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+🗓️ Project Automation
+
+Task scheduling, forecast logic, dependencies, validations, and timesheet workflows.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+🔁 Data & Integrations
+
+Data migration, model restructuring, REST APIs, and system synchronization.
+
+</td>
+</tr>
+</table>
+
+🛠️ Technology Stack
 
 <div align="center">
 
-### Core
+Core Development
 
-<img src="https://skillicons.dev/icons?i=python,js,postgres,html,css&theme=dark" alt="Core technologies"/>
-
-<br/><br/>
-
-### Development & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=python,js,postgres,html,css&theme=dark" alt="Core technologies" />
 
 <br/><br/>
 
-### Odoo Ecosystem
+Tools & Infrastructure
 
-<img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo"/>
-<img src="https://img.shields.io/badge/OWL-714B67?style=flat-square&logo=odoo&logoColor=white" alt="OWL"/>
-<img src="https://img.shields.io/badge/QWeb-0F766E?style=flat-square&logo=odoo&logoColor=white" alt="QWeb"/>
-<img src="https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=w3c&logoColor=white" alt="XML"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
-<img src="https://img.shields.io/badge/Meta_API-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta API"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Development tools" />
+
+<br/><br/>
+
+Odoo Ecosystem
+
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/OWL-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/QWeb-0F766E?style=for-the-badge&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=w3c&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Meta_API-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
 
 </div>
 
----
+🧠 Current Focus
 
-## 🧠 Areas I'm Exploring
+<div align="center">
 
-```python
-current_focus = {
-    "ERP": [
-        "Odoo architecture",
-        "Reusable module design",
-        "Odoo 19",
-    ],
-    "Backend": [
-        "Python architecture",
-        "PostgreSQL performance",
-        "API reliability",
-    ],
-    "Frontend": [
-        "OWL",
-        "Modern Odoo UI patterns",
-    ],
-    "Automation": [
-        "Workflow automation",
-        "System integrations",
-        "Developer productivity",
-    ],
-}
-```
+<img src="https://img.shields.io/badge/Odoo_19-Architecture-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/Reusable-Modules-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-Performance-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/API-Reliability-164E63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Workflow-Automation-0F766E?style=for-the-badge" />
 
----
+</div>
 
-## 📈 GitHub Activity
+📈 GitHub Activity
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=ham-koderxpert&theme=dark&hide_border=true&background=00000000&ring=14B8A6&fire=14B8A6&currStreakLabel=5EEAD4"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=ham-koderxpert&theme=default&hide_border=true&background=00000000&ring=0F766E&fire=0F766E&currStreakLabel=0F766E"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=ham-koderxpert&theme=dark&hide_border=true&background=00000000&ring=14B8A6&fire=14B8A6"
-    alt="GitHub Streak"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ham-koderxpert&theme=dark&hide_border=true&background=00000000&ring=14B8A6&fire=14B8A6&currStreakLabel=5EEAD4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ham-koderxpert&theme=default&hide_border=true&background=00000000&ring=0F766E&fire=0F766E&currStreakLabel=0F766E" />
+  <img src="https://streak-stats.demolab.com/?user=ham-koderxpert&theme=dark&hide_border=true&background=00000000&ring=14B8A6&fire=14B8A6&currStreakLabel=5EEAD4" alt="GitHub streak stats"/>
 </picture>
-
-<br/>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ham-koderxpert&bg_color=00000000&color=14B8A6&line=0F766E&point=5EEAD4&area=true&hide_border=true"
-width="100%"
-alt="GitHub Activity Graph"
-/>
 
 </div>
 
----
+If the activity graph service is unreliable, omit it. A clean profile is better than a broken widget.
 
-## 🐍 Contribution Journey
+🐍 Contribution Journey
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ham-koderxpert/ham-koderxpert/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ham-koderxpert/ham-koderxpert/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/ham-koderxpert/ham-koderxpert/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ham-koderxpert/ham-koderxpert/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ham-koderxpert/ham-koderxpert/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ham-koderxpert/ham-koderxpert/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake" />
 </picture>
 
 </div>
 
----
-
-## 🛰️ Current Mission
+🛰️ Current Mission
 
 <div align="center">
 
-`ODOO 19`
-  •  
-`ERP ARCHITECTURE`
-  •  
-`REUSABLE MODULES`
-  •  
-`OWL`
-  •  
-`POSTGRESQL`
-  •  
-`API INTEGRATIONS`
-  •  
-`AUTOMATION`
+ODOO 19   •   ERP ARCHITECTURE   •   OWL   •   POSTGRESQL   •   API INTEGRATIONS   •   AUTOMATION
+
+<br/><br/>
+
+Build software around the business — not the business around the software.
 
 </div>
 
-<br/>
+🤝 Let's Build Something Useful
 
-> **Build software around the business — not the business around the software.**
-
----
-
-## 🤝 Let's Build Something Useful
-
-I'm interested in building **Odoo customizations, integrations, automation solutions and ERP tools** that solve practical business problems.
+I’m interested in building Odoo customizations, integrations, automation solutions, and ERP tools that solve practical business problems.
 
 <div align="center">
 
 <a href="https://github.com/ham-koderxpert">
-<img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<!-- Add your LinkedIn URL below -->
+<!-- Replace and uncomment when ready
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<!-- <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a> -->
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+-->
 
-<!-- Add your portfolio URL below -->
+<br/><br/>
 
-<!-- <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a> -->
+<img src="https://komarev.com/ghpvc/?username=ham-koderxpert&label=PROFILE+VIEWS&color=0f766e&style=flat-square" alt="Profile views"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ham-koderxpert&label=PROFILE+VIEWS&color=0f766e&style=flat-square" alt="Profile views"/>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,45:0f766e,100:020617&height=100&section=footer" width="100%" alt="Footer"/>
-
-</div>
