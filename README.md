@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**ham-koderxpert/ham-koderxpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Harsh 👋
 
-Here are some ideas to get you started:
+### Odoo Developer | Python Developer | ERP Consultant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Odoo Developer specializing in ERP customization,
+integrations, and business process automation.
+
+- 🔭 Working on Odoo development and custom modules
+- 💻 Experience with Odoo, Python, PostgreSQL, and JavaScript
+- 🔄 Odoo migrations and third-party API integrations
+- 🌱 Currently learning and improving my development skills
+
+### 🛠️ Technologies & Tools
+
+Python | Odoo | PostgreSQL | JavaScript | XML | Git
+
+### 📌 Areas of Expertise
+
+- Odoo Custom Module Development
+- Odoo Version Migration
+- API Integrations
+- QWeb Reports
+- ERP Business Process Automation
+
+### 📫 Connect with Me
+
+- GitHub: https://github.com/ham-koderxpert
